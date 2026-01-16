@@ -23,3 +23,10 @@ Heute habe ich daran gearbeitet, die Soundeffekte und Hintergrundsounds richtig 
 ## Leit-Satz
 
 Heute habe ich die meiste Zeit verbracht, die Farben richtig einzuordnen. Das heisst, mir haben die Farben wie Einstellungsfeld oder Hintergrund nicht so gefallen. Diese habe ich heute so gut wie es geht geändert, damit es nicht so "unifarbig" aussieht. Den vor allem die Farben und Sounds machen viel aus. Doch die Sounds wurden dieses mal von mir auch ein bisschen versaut, da ich viel zu viel rumgespielt habe und die Sound ein komplettes Durcheinander haben. Wenn man die Hintergrundmusik ändert, ändert es sich nich mit in Raum 1. Das muss ich doch noch ein bisschen fixen aber sonst gefallen mir die Sounds und Farben aktuell. (106 Wörter)
+
+## Für den 23.01.2026
+
+- [ ] Escape Room weiter entwickeln
+- [ ] Escape Room weiter entwickeln
+- [ ] Bewerbungen senden
+- [ ] Bewerbungen senden
