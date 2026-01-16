@@ -14,7 +14,7 @@ Heute habe ich daran gearbeitet, die Soundeffekte und Hintergrundsounds richtig 
 
 ## Für den 16.01.2026
 
-- [ ] Escape Room weiter entwickeln
-- [ ] Escape Room weiter entwickeln
-- [ ] Bewerbungen versenden
-- [ ] Bewerbungen versenden
+- [x] Escape Room weiter entwickeln
+- [x] Escape Room weiter entwickeln
+- [x] Bewerbungen versenden
+- [x] Bewerbungen versenden
