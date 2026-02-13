@@ -35,3 +35,13 @@ Heute habe ich die meiste Zeit verbracht, die Farben richtig einzuordnen. Das he
 ## Leit-Satz
 
 Heute habe ich daran gearbeitet, den Loader zu verbessern. Im allgemeinen gefiehlen mir nicht der GameLoader und Screen2 (Voreinstellungen), diese habe ich dann am Schluss rausgemacht und einen komplett verschiedenen Loader gemacht. Ganz am Anfang hatte ich die Idee einen Schnee Effekt Game Loader zu machen, so hbae ich das jetzt auch umgesetzt. Die presetting habe ich aus einem wichtigen Grund rausgenommen. Irgendwie hatte ich immer wieder mal Probleme mit den Voreinstellungen des Audios mit den gegenüber den Einstellungen in der Lobby. Also es hat nicht ganz miteinander gewirkt und dann habe ich die Voreinstellungen komplett entfernt und einen Disclaimer sowie Hinweise usw. eingepackt. Ich finde das kommt viel besser. Auch habe ich einen weiteren Raum erstellt. Der Vorherige Raum hat mir nicht so gefallen und aus diesem Grund habe ich einen Raum meiner Wahl hingepackt. (136 Wörter)
+
+## Für den 13.02.2026
+
+- [ ] Escape Room weiter entwickeln
+- [ ] Escape Room weiter entwickeln
+- [ ] Basierend auf mein Praktikum, SQL wieder aufholen
+- [ ] Basierend auf mein Praktikum, SQL wieder aufholen
+
+## 13.02.2026
+## Leit-Satz
