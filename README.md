@@ -45,3 +45,5 @@ Heute habe ich daran gearbeitet, den Loader zu verbessern. Im allgemeinen gefieh
 
 ## 13.02.2026
 ## Leit-Satz
+
+Heute habe ich daran gearbeitet, die Räume einzuteilen. Am Ende habe ich gemerkt, das die Reihenfolge der Räume nicht wirklich viel Sinn macht. Die Methode, dass die folgenden Räume eben "Locked" sind finde ich gut. Aber auch das die Räume nachher aufmachen, wenn 3 vorherige Räume mit Grün absolviert werden. Doch der Unterschied liegt ein zwischen Raum 2 und Raum 3. Weil wenn man Raum 2 absolviert, wird man in Raum 3 "Geschleudert". Dort geht es dann mit dem gleichen Sinn, im Raumschiff, weiter. Was am Ende wirklich meine Angst ist, dass die Räume zu einfach oder allgemein zu langweilig und redundant werden oder mir die Ideen ausgehen. (108 Wörter)
