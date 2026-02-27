@@ -54,3 +54,15 @@ Heute habe ich daran gearbeitet, die Räume einzuteilen. Am Ende habe ich gemerk
 - [ ] Escape Room weiter entwickeln
 - [ ] Basierend auf mein Praktikum, SQL wieder aufholen
 - [ ] Basierend auf mein Praktikum, SQL wieder aufholen
+
+## Leit-Satz
+Heute habe ich daran gearbeitet, eine Idee für den 4. Raum zu machen. Es war nicht die einfachste Entscheidung und ich hoffe es wird einfacher da ich noch ziemlich viele Räume mit verschiedenen Ideen offen habe. Doch für Raum 4 habe ich mir so etwas gedacht wie einen Button zu machen. Also man sieht einen Button mit einem Timer und man muss dann die Sätze erledigen die auf diesem Button stehen. Entweder etwas wie "Drücke 2 mal schnell" oder "Drücke jetzt nicht" usw. (83 Wörter)
+
+## Für den 27.02.2026
+
+- [ ] Pitch bearbeiten für Modul 241
+- [ ] Escape Room entwickeln
+- [ ] Escape Room entwickeln
+- [ ] Basieren auf mein Praktikum, SQL wieder aufholen
+
+## Leit-Satz
