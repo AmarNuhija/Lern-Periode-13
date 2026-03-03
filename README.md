@@ -60,9 +60,18 @@ Heute habe ich daran gearbeitet, eine Idee für den 4. Raum zu machen. Es war ni
 
 ## Für den 27.02.2026
 
-- [ ] Pitch bearbeiten für Modul 241
-- [ ] Escape Room entwickeln
-- [ ] Escape Room entwickeln
+- [x] Pitch bearbeiten für Modul 241
+- [x] Escape Room entwickeln
+- [x] Escape Room entwickeln
 - [ ] Basieren auf mein Praktikum, SQL wieder aufholen
 
 ## Leit-Satz
+
+Heute habe ich daran gearbeitet, den Pitch für das Modul 241 zu gestalten. Im allgemeinen ging es darum, einen Elevator-Pitch für meine Problemstellung zu bearbeiten und zu gestalten. Meine Problemstellung war, dass es in der "Firma" keine ausreichende Kundenzufriedenheit gab im Sinne von die Bearbeitungszeit und die Trasnparenz des Ticket-Systems war nicht wirklich gegeben bzw. unzureichend. Und daraus habe ich dann ein Zentrales Ticket-System entwickelt.
+
+## Für den 06.03.2026
+
+- [ ] Escape Room entwickeln
+- [ ] Escape Room entwickeln
+- [ ] Escape Room entwickeln
+- [ ] Escape Room entwickeln
