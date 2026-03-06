@@ -73,8 +73,9 @@ Heute habe ich daran gearbeitet, den Pitch für das Modul 241 zu gestalten. Im a
 
 - [x] Escape Room entwickeln
 - [x] Escape Room entwickeln
-- [ ] Escape Room entwickeln
+- [x] Escape Room entwickeln
 - [ ] Escape Room entwickeln
 
 ## Leit-Satz
 
+Heute habe ich daran gearbeitet einen weiteren Raum zu gestalten. Diesmal habe ich in den Arbeitspaketen nur Escape Room verpackt, falls sich doch noch was anderes ergibt, doch dies war diese Woche nicht der Fall. Auch habe ich schon länger daran gearbeitet, Raum 5 zu gestalten. Dieser Raum sollte nicht etwas haben wie Regler oder Klicken, sondern ganz schlichtes Nachlesen von Aufgaben und lösen. Es ist so das links die "Instructions" sind und rechts einfach die Akten. Also auf den Akten sind dann die darauf basierenden Instruktionen drauf, wenn man es richtig hat, hat man gewonnen. Dies muss man 5 mal schaffen, um diesen Raum mit Grün zu absolvieren. (109 Wörter)
