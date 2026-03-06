@@ -71,7 +71,10 @@ Heute habe ich daran gearbeitet, den Pitch für das Modul 241 zu gestalten. Im a
 
 ## Für den 06.03.2026
 
+- [x] Escape Room entwickeln
+- [x] Escape Room entwickeln
 - [ ] Escape Room entwickeln
 - [ ] Escape Room entwickeln
-- [ ] Escape Room entwickeln
-- [ ] Escape Room entwickeln
+
+## Leit-Satz
+
