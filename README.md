@@ -82,7 +82,7 @@ Heute habe ich daran gearbeitet einen weiteren Raum zu gestalten. Diesmal habe i
 
 ## Für den 13.03.2026
 
-- [ ] Escape Room entwickeln (User Testing)
-- [ ] Escape Room entwickeln (User Testing)
-- [ ] Escape Room entwickeln
+- [x] Escape Room entwickeln (User Testing)
+- [x] Escape Room entwickeln (User Testing)
+- [x] Escape Room entwickeln
 - [ ] Escape Room entwickeln
