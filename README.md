@@ -90,3 +90,10 @@ Heute habe ich daran gearbeitet einen weiteren Raum zu gestalten. Diesmal habe i
 ## Leit-Satz
 
 Heute habe ich daran gearbeitet, meine persönliche Homepage weiter zu verbessern. Dabei habe ich mich vor allem auf das Design und die Struktur konzentriert, damit die Seite übersichtlicher und moderner wirkt. Ich habe einige Buttons angepasst und passende Icons hinzugefügt, damit die Navigation klarer ist und besser zu meiner Seite passt. Zudem habe ich kleinere Änderungen am Layout gemacht, damit alles einheitlicher aussieht und besser zusammenpasst. Ein weiterer Fokus lag darauf, neue Ideen für zukünftige Funktionen zu sammeln, damit die Homepage später auch Projekte wie meinen Escape Room oder andere Anwendungen präsentieren kann. Insgesamt bin ich zufrieden mit dem Fortschritt, da die Seite immer professioneller wirkt und sich gut als Portfolio für Bewerbungen eignet.(108 Wöter)
+
+## Für den 20.03.2026
+
+- [x] Escape Room entwickeln (User Testing)
+- [x] Escape Room entwickeln (User Testing)
+- [x] Escape Room entwickeln
+- [x] Homepage dev
