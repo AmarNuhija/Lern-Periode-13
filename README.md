@@ -85,7 +85,7 @@ Heute habe ich daran gearbeitet einen weiteren Raum zu gestalten. Diesmal habe i
 - [x] Escape Room entwickeln (User Testing)
 - [x] Escape Room entwickeln (User Testing)
 - [x] Escape Room entwickeln
-- [ ] Escape Room entwickeln
+- [x] Homepage dev
 
 ## Leit-Satz
 
