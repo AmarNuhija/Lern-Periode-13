@@ -97,3 +97,14 @@ Heute habe ich daran gearbeitet, meine persönliche Homepage weiter zu verbesser
 - [x] Escape Room entwickeln (User Testing)
 - [x] Escape Room entwickeln
 - [x] Homepage dev
+
+## Leit-Satz
+
+Heute ging es darum, das ein paar Personen meine Website austesten. Sei es die Homepage oder für mein Escape Room. Für die Homepage gab es wesentlich mehr positivere Antworten als mein Escape Room. Damit habe ich auch gerechnet, da mein Escape Room sich so ziemlich in der Anfangsphase befindet und natürlich noch sehr viel gemacht werden muss, sowie spielerisch als auch administrativ. Das Problem lag darin, das in den meisten Räumen einfach zu viel geschrieben war und das es meist zu Verwirrung geführt hat, was jetzt die eigentliche Aufgabe ist um diesen Raum zu absolvieren. Dies wird auf jedenfall in Zukunft beachtet, auch ich selbst muss sagen, das dies wirklich ein Nachteil von einem Game ist. Doch für meine Homepage war es wie schon gesagt gut. (126 Wörter)
+
+## Für den 27.03.2026
+
+- [ ] Escape Room (Inkl. User Testing)
+- [ ] Escape Room (Inkl. User Testing)
+- [ ] Escape Room (Inkl. User Testing)
+- [ ] Homepage dev
